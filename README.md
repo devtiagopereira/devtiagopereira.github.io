@@ -1,9 +1,28 @@
-# devtiagopereira.github.io
+# Tiago Pereira – Dev Portfolio 🌐
 
-Hi there, I'm Tiago Pereira!
+Welcome to my personal landing page!  
+This site showcases my current projects and progress as I learn web development.
 
-This GitHub Page is for me to play around with what I'm learning about coding. I know zer0 about coding so I'm learning.
+## About This Project
 
-Any suggestion is welcome, take in mind that the code in the page is for me to practice. It should be messy but has I learn I'll do it right.
+This is a simple portfolio page built using only **HTML and CSS**.  
+I'm currently enrolled in Dr. Angela Yu's Full-Stack Web Development Bootcamp on Udemy, and this project reflects what I've learned so far.
 
-Thank you!
+As I grow my skills, I will continue improving this page by:
+- Adding JavaScript features
+- Making it fully responsive
+- Highlighting more of my projects
+
+## Live Website
+
+Visit the page here:  
+👉 [devtiagopereira.github.io](https://devtiagopereira.github.io/)
+
+## Tech Used
+
+- HTML
+- CSS
+
+---
+
+Thanks for stopping by 🙌
